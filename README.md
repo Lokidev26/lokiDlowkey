@@ -44,10 +44,9 @@ _For a complete list of my projects, please visit my [GitHub repositories]([http
 
 ## Skills
 
-- **Programming Languages:** Python, Java, C++, etc.
+- **Programming Languages:** Python, Java, C++
 - **Web Development:** HTML, CSS, JavaScript
-- **Tools & Technologies:** Git, GitHub, VS Code, etc.
-- **Other Interests:** Data Analysis, Automation, Problem-Solving
+- **Tools & Technologies:** Git, GitHub, VS Code
 
 ## Contact Me
 
