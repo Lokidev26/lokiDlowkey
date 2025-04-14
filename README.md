@@ -1,4 +1,4 @@
-# Hi there, I'm Rodolfo Baltazar! 👋
+# Hi, I'm Rodolfo Baltazar! 👋
 
 I'm a BSIT student at **DCCP Laoag** passionate about technology, software development, and continuous learning. Welcome to my GitHub profile!
 
@@ -21,6 +21,8 @@ Rider – views assigned deliveries and updates order status.
 Buyer – browses products, places orders, and tracks deliveries.
 Built with HTML, CSS, JavaScript, PHP, and MySQL, this project highlights role-based functionality, secure checkout, and order tracking.
 
+
+
 JKL Airline
 A flight reservation system that simplifies the booking process. It supports three end users:
 
@@ -31,6 +33,8 @@ Staff – manages check-ins, flight statuses, and passenger records.
 User – searches for flights, books tickets, and manages reservations.
 Developed using PHP and MySQL, it demonstrates effective data management, real-time updates, and multi-role access.
 
+
+
 Paupahan Hub
 A property rental management system connecting landlords and tenants. It includes:
 
@@ -40,7 +44,7 @@ Landlord – posts property listings, manages tenants, and tracks payments.
 
 Tenant – applies for rentals, communicates with landlords, and pays rent online.
 Created using HTML, CSS, JavaScript (AJAX), PHP, and MySQL, it showcases full-stack web development, dynamic content loading, and user verification.
-_For a complete list of my projects, please visit my [GitHub repositories]([https://github.com/yourusername?tab=repositories](https://github.com/lokiDlowkey?tab=repositories))._
+_For a complete list of my projects, please visit my [GitHub repositories](https://github.com/lokiDlowkey?tab=repositories)._
 
 ## Skills
 
